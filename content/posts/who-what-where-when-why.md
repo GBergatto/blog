@@ -20,9 +20,10 @@ Topics I will cover include:
 ## Where can you find it/me?
 
 The link to my blog https://gbergatto.github.io/
+
 You can subscribe to the RSS feed with the url https://gbergatto.github.io/index.xml
 
-I will post every article I write on [Medium](gberga.medium.com), too. So you can follow me there if you prefer.
+I will post every article I write on [Medium](https://gberga.medium.com/), too. So you can follow me there if you prefer.
 
 
 ## When will I be posting?
