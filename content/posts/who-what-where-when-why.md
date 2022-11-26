@@ -17,11 +17,11 @@ Topics I will cover include:
 - Linux: customization and workflows
 - Obsidian: how I use it to study and take notes
 
-## Where can you find it/me?
+## Where can you find it?
 
-The link to my blog https://gbergatto.github.io/
+The link to my blog is https://gbergatto.github.io/
 
-You can subscribe to the RSS feed with the url https://gbergatto.github.io/index.xml
+You can subscribe to the RSS feed with the URL https://gbergatto.github.io/index.xml
 
 I will post every article I write on [Medium](https://gberga.medium.com/), too. So you can follow me there if you prefer.
 
